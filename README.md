@@ -61,3 +61,7 @@ module.exports = {
 	"build": "webpack --mode production"
 }
 ```
+
+## Starting server:
+
+- Run `npm run start` and will listen port 8080 from localhost (http://localhost:8080/)
