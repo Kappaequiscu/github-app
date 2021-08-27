@@ -64,4 +64,6 @@ module.exports = {
 
 ## Starting server:
 
-- Run `npm run start` and will listen port 8080 from localhost (http://localhost:8080/)
+- Clone github repository.
+- Run `npm install` to download packages.
+- Run `npm run start` and will listen port 8080 from localhost (http://localhost:8080/).
